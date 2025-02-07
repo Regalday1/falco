@@ -1,3 +1,7 @@
+driver:
+  kind: modern_ebpf
+tty: true
+
 customRules:
   custom-rules.yaml: |-
     - rule: Write below etc
